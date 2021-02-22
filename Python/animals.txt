@@ -1,0 +1,25 @@
+dog:Good at finding sticks
+cat:Not good at fetch
+bird:Main reason I wash my car
+bear:Best hugs
+bee:Willing to die if they hate you
+squirrel:Five hand discount
+crocodile:Has about 70 teeth
+horse:Replaced by the car
+mouse:Richest animal in Anaheim
+rabbit:Needs braces
+turtle:Faster than Visual Studio
+racoon:Students during finals
+lizard:Weird texture
+worm:Popular dance move
+beetle:Volkswagen
+fly:Reliable at food gatherings
+spider:The world's biggest fear
+penguin:Iconic walk
+fish:Travel in schools
+dolphin:Reaches up to 18mph
+shark:Baby
+starfish:Lives under a rock
+squid:Plays the clarinet
+octopus:Big ocean spider
+jellyfish:Don't touch it 
