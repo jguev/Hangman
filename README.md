@@ -20,8 +20,7 @@ The objective of the game is to guess a random generated word within a specific 
 * Step 2: Install Python3
 * Step 3: Install Pygame
 ```
-python3 -m 
-pip install pygame
+python3 -m pip install pygame
 ```
 * Step 4: Run the application from the terminal with the commands below:
 ```
@@ -30,3 +29,5 @@ cd Python
 python3 main.py
 ```
 Happy hanging!
+
+![hang](https://user-images.githubusercontent.com/26126449/108809654-2e5aa480-755e-11eb-8bf5-e5bff066e821.gif)
