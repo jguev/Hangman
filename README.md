@@ -13,3 +13,20 @@ The objective of the game is to guess a random generated word within a specific 
 :ballot_box_with_check: **Developer: [Lousia Manoael](https://gitlab.com/lousia.manoael.705)**
 
 :ballot_box_with_check: **Developer: [Renaldy Pospos](https://gitlab.com/ImRenaldy)**
+
+### Instructions:
+
+* Step 1: Clone project to your local machine
+* Step 2: Install Python3
+* Step 3: Install Pygame
+```
+python3 -m 
+pip install pygame
+```
+* Step 4: Run the application from the terminal with the commands below:
+```
+cd Hangman
+cd Python
+python3 main.py
+```
+Happy hanging!
