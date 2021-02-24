@@ -1,6 +1,6 @@
 ![Hangman](https://user-images.githubusercontent.com/26126449/108806366-5c3beb00-7556-11eb-8f6f-f25a69c75f3f.png)
 
-## Hangman: Final Project for CS 380 
+## Hangman: Final Project for COMP 380 
 Hangman is a single-player desktop application simulating the paper and pencil guessing game, Hangman. 
 The objective of the game is to guess a random generated word within a specific amount of allotted incorrect attempts.
 
